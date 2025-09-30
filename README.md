@@ -11,10 +11,12 @@
 ---
 
 ### 📚 Currently Learning
-- HTML & CSS basics  
-- How GitHub works  
-- Building simple apps with AI prompts  
-- (and figuring it out as I go 🚀)  
+Here are some of the tools and languages I’m exploring:  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Learning with AI](https://img.shields.io/badge/AI%20Prompts-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)  
 
 ---
 
