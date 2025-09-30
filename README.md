@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=58a6ff&height=200&section=header&text=Welcome%20to%20Samacube's%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 
 
