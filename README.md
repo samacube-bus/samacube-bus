@@ -1,8 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=58a6ff&height=200&section=header&text=Welcome%20to%20Samacube's%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![Banner](./banner.png)
 
 
 
-# 👋 Hey, I’m Samacube
+# 👋 Hey, In Samacube
 
 ✨ Just starting out and learning how to build apps (with the help of prompts).  
 🌱 Right now I’m experimenting, making mistakes, and having fun figuring things out.  
