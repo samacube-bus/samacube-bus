@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I’m Samacube
 
-<!--
-**samacube-bus/samacube-bus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Just starting out and learning how to build apps (with the help of prompts).  
+🌱 Right now I’m experimenting, making mistakes, and having fun figuring things out.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [My First App](https://github.com/samacube-bus/my-first-app)  
+
+---
+
+### 📫 Connect
+- [My Website](https://samacube-bus.github.io)  
+- [GitHub](https://github.com/samacube-bus)  
