@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hey, In Samacube
+# 👋 Hey, In samacube
 
 ✨ Just starting out and learning how to build apps (with the help of prompts).  
 🌱 Right now I’m experimenting, making mistakes, and having fun figuring things out.  
