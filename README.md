@@ -10,6 +10,11 @@
 
 ---
 
+### 📊 GitHub Stats
+![Samacube's GitHub stats](https://github-readme-stats.vercel.app/api?username=samacube-bus&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📫 Connect
-- [My Website](https://samacube-bus.github.io)  
-- [GitHub](https://github.com/samacube-bus)  
+- 🌐 [My Website](https://samacube-bus.github.io)  
+- 🐙 [GitHub](https://github.com/samacube-bus)  
