@@ -10,6 +10,14 @@
 
 ---
 
+### 📚 Currently Learning
+- HTML & CSS basics  
+- How GitHub works  
+- Building simple apps with AI prompts  
+- (and figuring it out as I go 🚀)  
+
+---
+
 ### 📊 GitHub Stats
 ![Samacube's GitHub stats](https://github-readme-stats.vercel.app/api?username=samacube-bus&show_icons=true&theme=tokyonight)
 
